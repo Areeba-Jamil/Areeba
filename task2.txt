@@ -1,1 +1,2 @@
 This is a text file for git task
+A totally different file in order to raise a merge conflict
