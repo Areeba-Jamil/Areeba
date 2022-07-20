@@ -1,2 +1,3 @@
 This is a text file for git task
 Git Branch: Main, A, B
+Changes in Branch A but commit in branch B
